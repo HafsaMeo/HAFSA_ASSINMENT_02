@@ -21,3 +21,11 @@ OPENAI_API_KEY = [ENTER YOUR OPENAI API KEY HERE]
 PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 PINECONE_API_ENV = [ENTER YOUR PINECONE API ENVIRONMENT HERE]
 ```
+
+
+
+This code is taken from Excellent Computer Vision and AI Engineer Underfitted, Santiago
+
+Checkout his youtube channel and the tutorial
+
+`https://www.youtube.com/watch?v=BrsocJb-fAo`
