@@ -1,3 +1,6 @@
+
+# this file will clean the pincone index
+
 """
 Clean (reset) your Pinecone index.
 
